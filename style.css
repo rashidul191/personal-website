@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    font-family: 'Fira Sans', sans-serif;
+}
+p{
+    color: darkolivegreen;
+}
+h1{
+    font-size: 40px;
+}
+.name-hilight{
+    font-size: 40px;
+    color: hotpink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.top-banner{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom:150px ;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, hotpink, rgb(236, 62, 91));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+}
+.latest{
+    text-align: center;
+}
+.latest-pic img{
+    width: 20%;
+    float: left;
+    margin-left : 10%;
+    padding-left: 0;
+
+}
+
+.foter{
+    text-align: center;
+}
+#pera-end{
+    font-size: 15px;
+    padding-bottom:50px ;
+}
+.end{
+text-align: center;
+font-size: 12px;
+}
